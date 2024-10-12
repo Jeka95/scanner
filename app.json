@@ -2,6 +2,11 @@
   "expo": {
     "name": "scanner",
     "slug": "scanner",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "7d737437-a629-45ce-a337-f39e4e291227"
+      }
+    }
   }
 }
