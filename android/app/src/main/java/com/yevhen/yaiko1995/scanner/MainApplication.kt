@@ -1,4 +1,4 @@
-package com.scanner
+package com.yevhen.yaiko1995.scanner
 
 import android.app.Application
 import android.content.res.Configuration

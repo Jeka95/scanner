@@ -1,4 +1,4 @@
-package com.scanner
+package com.yevhen.yaiko1995.scanner
 
 import android.os.Build
 import android.os.Bundle
